@@ -1,0 +1,59 @@
+.fondo {
+  > Img {
+    width: 100%;
+    height: 400px;
+    opacity: 0.4;
+  }
+  position: relative;
+}
+.titulo {
+  position: absolute;
+  top: 0px;
+  margin-left: 5%;
+}
+.links {
+  display: flex;
+  align-content: center;
+}
+.presentación {
+  display: flex;
+  align-content: center;
+
+  > h2 {
+    font-weight: bolder;
+  }
+  > Img {
+    width: 100%;
+  }
+  > div {
+    width: 70%;
+    margin-left: 5%;
+    > p {
+      font-size: 18px;
+
+      > span {
+        font-size: 20px;
+      }
+    }
+  }
+}
+.Contenido {
+  position: absolute;
+  top: 10%;
+  margin: 1% 5%;
+  padding-bottom: 5%;
+  > h2 {
+    font-weight: bolder;
+  }
+  > p {
+    font-size: 18px;
+  }
+}
+.Imagenes {
+  display: flex;
+  flex-wrap: wrap;
+  > Img {
+    width: 40%;
+    margin: 10px;
+  }
+}
