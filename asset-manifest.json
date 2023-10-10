@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/PaginaPersonalCV/static/css/main.bcc7d072.css",
+    "main.js": "/PaginaPersonalCV/static/js/main.87775565.js",
+    "static/js/787.df4551f4.chunk.js": "/PaginaPersonalCV/static/js/787.df4551f4.chunk.js",
+    "static/media/hobby4.png": "/PaginaPersonalCV/static/media/hobby4.03bdda959454aa2806b1.png",
+    "static/media/gdev1.png": "/PaginaPersonalCV/static/media/gdev1.283638893ec43562e78b.png",
+    "static/media/gdev3.png": "/PaginaPersonalCV/static/media/gdev3.05bc93a990a94cadffda.png",
+    "static/media/brand-icons.svg": "/PaginaPersonalCV/static/media/brand-icons.6729d29753e000c17489.svg",
+    "static/media/icons.svg": "/PaginaPersonalCV/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/gdev4.png": "/PaginaPersonalCV/static/media/gdev4.ea40c6db66846f39f5e0.png",
+    "static/media/gdev2.png": "/PaginaPersonalCV/static/media/gdev2.2e21717b34218476aea5.png",
+    "static/media/CV_BustillosLeonLuisEduardo.pdf": "/PaginaPersonalCV/static/media/CV_BustillosLeonLuisEduardo.a72ae47aa5b99fabdff5.pdf",
+    "static/media/hobby3.png": "/PaginaPersonalCV/static/media/hobby3.9ab933bfd0e9e435cb00.png",
+    "static/media/hobby1.png": "/PaginaPersonalCV/static/media/hobby1.eb65e2c38837cd171eb9.png",
+    "static/media/outline-icons.svg": "/PaginaPersonalCV/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
+    "static/media/icons.eot": "/PaginaPersonalCV/static/media/icons.a01e3f2d6c83dc3aee17.eot",
+    "static/media/icons.ttf": "/PaginaPersonalCV/static/media/icons.c656b8caa454ed19b9a2.ttf",
+    "static/media/brand-icons.eot": "/PaginaPersonalCV/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
+    "static/media/brand-icons.ttf": "/PaginaPersonalCV/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
+    "static/media/brand-icons.woff": "/PaginaPersonalCV/static/media/brand-icons.cac87dc00c87a5d74711.woff",
+    "static/media/brand-icons.woff2": "/PaginaPersonalCV/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
+    "static/media/icons.woff": "/PaginaPersonalCV/static/media/icons.425399f81e4ce7cbd967.woff",
+    "static/media/icons.woff2": "/PaginaPersonalCV/static/media/icons.38c6d8bab26db77d8c80.woff2",
+    "static/media/outline-icons.eot": "/PaginaPersonalCV/static/media/outline-icons.752905fa5edf21fc52a1.eot",
+    "static/media/outline-icons.ttf": "/PaginaPersonalCV/static/media/outline-icons.5367103510b27b784827.ttf",
+    "static/media/flags.png": "/PaginaPersonalCV/static/media/flags.99f63ae7a743f21ab308.png",
+    "static/media/yo.jpg": "/PaginaPersonalCV/static/media/yo.2dc88388951b0a448dbf.jpg",
+    "static/media/outline-icons.woff": "/PaginaPersonalCV/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
+    "static/media/hobby6.jpg": "/PaginaPersonalCV/static/media/hobby6.1dbc5e7e5a2e70f942f5.jpg",
+    "static/media/hobby5.jpg": "/PaginaPersonalCV/static/media/hobby5.deb5847672d4709a1125.jpg",
+    "static/media/hobby2.jpg": "/PaginaPersonalCV/static/media/hobby2.8d0bfc81ff9d10a21d1c.jpg",
+    "static/media/outline-icons.woff2": "/PaginaPersonalCV/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
+    "index.html": "/PaginaPersonalCV/index.html",
+    "main.bcc7d072.css.map": "/PaginaPersonalCV/static/css/main.bcc7d072.css.map",
+    "main.87775565.js.map": "/PaginaPersonalCV/static/js/main.87775565.js.map",
+    "787.df4551f4.chunk.js.map": "/PaginaPersonalCV/static/js/787.df4551f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcc7d072.css",
+    "static/js/main.87775565.js"
+  ]
+}
