@@ -2,6 +2,7 @@ import './App.css';
 import { Button, Image , Icon} from 'semantic-ui-react';
 import yo from "./assets/yo.jpg"
 import cv from "./assets/CV_BustillosLeonLuisEduardo.pdf"
+import key from "./assets/public_key_lebl.pem"
 import gdev1 from "./assets/gdev1.png"
 import gdev2 from "./assets/gdev2.png"
 import gdev3 from "./assets/gdev3.png"
@@ -102,7 +103,7 @@ El destinatario utiliza su clave privada (n, d) para descifrar el mensaje cifrad
         <Button color='red' as="a" download={cv} href={cv}>
           <Icon name='file pdf' /> Descargar CV
         </Button>
-        <Button color='blue' as="a" href="">
+        <Button color='blue' as="a" href={key} download={key}>
           <Icon name='key' /> Descargar Llave Privada
         </Button>
         </div>
