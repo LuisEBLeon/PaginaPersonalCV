@@ -104,7 +104,7 @@ El destinatario utiliza su clave privada (n, d) para descifrar el mensaje cifrad
           <Icon name='file pdf' /> Descargar CV
         </Button>
         <Button color='blue' as="a" href={key} download={key}>
-          <Icon name='key' /> Descargar Llave Privada
+          <Icon name='key' /> Descargar Llave Pública
         </Button>
         </div>
       </div>
