@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PaginaPersonalCV/static/css/main.bcc7d072.css",
-    "main.js": "/PaginaPersonalCV/static/js/main.c37dbdd1.js",
+    "main.js": "/PaginaPersonalCV/static/js/main.8a8d4cce.js",
     "static/js/787.df4551f4.chunk.js": "/PaginaPersonalCV/static/js/787.df4551f4.chunk.js",
     "static/media/hobby4.png": "/PaginaPersonalCV/static/media/hobby4.03bdda959454aa2806b1.png",
     "static/media/gdev1.png": "/PaginaPersonalCV/static/media/gdev1.283638893ec43562e78b.png",
@@ -32,12 +32,13 @@
     "static/media/hobby2.jpg": "/PaginaPersonalCV/static/media/hobby2.8d0bfc81ff9d10a21d1c.jpg",
     "static/media/outline-icons.woff2": "/PaginaPersonalCV/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/PaginaPersonalCV/index.html",
+    "static/media/public_key_lebl.pem": "/PaginaPersonalCV/static/media/public_key_lebl.3eff666f44c6b7c7e7a8.pem",
     "main.bcc7d072.css.map": "/PaginaPersonalCV/static/css/main.bcc7d072.css.map",
-    "main.c37dbdd1.js.map": "/PaginaPersonalCV/static/js/main.c37dbdd1.js.map",
+    "main.8a8d4cce.js.map": "/PaginaPersonalCV/static/js/main.8a8d4cce.js.map",
     "787.df4551f4.chunk.js.map": "/PaginaPersonalCV/static/js/787.df4551f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcc7d072.css",
-    "static/js/main.c37dbdd1.js"
+    "static/js/main.8a8d4cce.js"
   ]
 }
